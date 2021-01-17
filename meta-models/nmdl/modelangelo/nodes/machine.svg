@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg18" sodipodi:docname="machine.svg" inkscape:version="0.92.2 5c3e80d, 2017-08-06" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56px" height="28px"
+	 viewBox="0 0 56 28" enable-background="new 0 0 56 28" xml:space="preserve">
+<sodipodi:namedview  inkscape:window-maximized="1" inkscape:window-y="1" inkscape:window-x="0" inkscape:window-height="855" inkscape:window-width="1440" inkscape:current-layer="g16" inkscape:pageshadow="2" inkscape:pageopacity="0" gridtolerance="10" guidetolerance="10" objecttolerance="10" showgrid="false" inkscape:cy="14" inkscape:cx="32.56" inkscape:zoom="6.25" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" id="namedview20">
+	</sodipodi:namedview>
+<v:documentProperties  v:viewMarkup="false" v:metric="true" v:langID="1031"></v:documentProperties>
+<style
+     type="text/css"
+     id="style7">
+	.st0{fill:#FFFFD0;fill-rule:evenodd;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1}
+  </style>
+<g id="g16">
+	<title  id="title4">Zeichenblatt-1</title>
+	<g id="shape1-1">
+		<title  id="title6">Rechteck</title>
+		
+			<rect id="rect8" fill="#4D4D4D" stroke="#000000" stroke-width="1.5" stroke-linecap="square" stroke-miterlimit="3" width="56" height="28"/>
+	</g>
+	<g id="shape2-3">
+		<title  id="title11">Rechteck.2</title>
+		
+			<rect id="rect13" y="4" fill="#FFFFD0" stroke="#000000" stroke-width="1.5" stroke-linecap="square" stroke-miterlimit="3" width="56" height="20"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="56.69px"
+   height="28.35px"
+   viewBox="0 0 56.69 28.35"
+   style="enable-background:new 0 0 56.69 28.35;"
+   xml:space="preserve"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="stoppingStrategy.svg"><metadata
+     id="metadata17"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs15"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 14.175 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="56.689999 : 14.175 : 1"
+       inkscape:persp3d-origin="28.344999 : 9.4500001 : 1"
+       id="perspective19" /></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1437"
+     inkscape:window-height="856"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="8.3245149"
+     inkscape:cx="27.650999"
+     inkscape:cy="9.3699152"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g9" /><style
+     type="text/css"
+     id="style3">
+
+	.st2{fill:#D6BCD7;stroke:#010101;stroke-width:1.5px;}
+	.st1{fill:#010101;}
+
+</style><rect
+     x="18.542543"
+     y="1.783314"
+     class="st2"
+     width="37.174145"
+     height="25.308372"
+     id="rect5"
+     style="fill:#d6bcd7;stroke:#010101;stroke-width:1.81662738px;fill-opacity:1" /><rect
+     x="1.1583138"
+     y="1.783314"
+     class="st2"
+     width="17.409342"
+     height="25.308372"
+     id="rect7"
+     style="fill:#d6bcd7;stroke:#010101;stroke-width:1.81662738px;fill-opacity:1" /><g
+     class="st0"
+     id="g9"
+     transform="matrix(1.0044623,0,0,1.0177984,-0.22282201,0.15289009)"><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.12145329px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03100812"
+       x="5.1273165"
+       y="19.782545"
+       id="text819"
+       transform="scale(1.0493584,0.95296325)"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="5.1273165"
+         y="19.782545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.12145329px;line-height:0;font-family:'times New Roman';-inkscape-font-specification:'times New Roman, ';stroke-width:1.03100812">S</tspan></text>
+</g></svg>

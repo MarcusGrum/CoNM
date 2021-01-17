@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generiert durch Microsoft Visio, SVG Export Zeichnung1.svg Zeichenblatt-1 -->
+
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56"
+   height="28"
+   viewBox="0 0 56 28"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st3"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="machine_white.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata24"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs22" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="6.25"
+     inkscape:cx="0.72"
+     inkscape:cy="14"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16" /><v:documentProperties
+     v:langID="1031"
+     v:metric="true"
+     v:viewMarkup="false" /><style
+     type="text/css"
+     id="style2"><![CDATA[
+		.st2 {fill:#ffffff;stroke:#000000;stroke-width:1.5}
+		.st1 {fill:#60768d;stroke:#000000;stroke-width:1.5}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style><g
+     v:mID="0"
+     v:index="1"
+     v:groupContext="foregroundPage"
+     id="g16"><title
+       id="title4">Zeichenblatt-1</title><g
+       id="shape1-1"
+       v:mID="1"
+       v:groupContext="shape"
+       style="fill:#ffffff;fill-opacity:1"><title
+         id="title6">Rechteck</title><rect
+         x="0"
+         y="0"
+         width="56"
+         height="28"
+         class="st1"
+         id="rect8"
+         stroke-width="1.5"
+         stroke="#000000"
+         fill="#60768d"
+         style="fill:#ffffff;fill-opacity:1" /></g><g
+       id="shape2-3"
+       v:mID="2"
+       v:groupContext="shape"
+       style="fill:#fffff8;fill-opacity:1"><title
+         id="title11">Rechteck.2</title><rect
+         x="0"
+         y="4"
+         width="56"
+         height="20"
+         class="st2"
+         fill="#ffffff"
+         stroke="#000000"
+         stroke-width="1.5"
+         id="rect13"
+         style="fill:#fffff8;fill-opacity:1" /></g></g></svg>
