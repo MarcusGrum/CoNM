@@ -15,7 +15,24 @@ Start modeling with the NMDL.
 
 ## Warehouses
 
-Tbd
+The warehouses enable a quick modeling start by providing pre-modeled models. 
+Take a look at them as a basis to get started and feel free to extend them.
+
+## Publication
+
+If you have used CoNM for your published (or unpublished) work, please let me know at marcus.grum@uni-potsdam.de>  and I'll include you in this list. 
+You can cite CoNM in your paper with the following bibtex reference:
+
+```
+@phdthesis{
+  Type = {dissertation},
+  Title = {Construction of a Concept of Neuronal Modeling},
+  Author = {Marcus Grum},
+  School = {Potsdam University},
+  URL = {tbd},
+  Year = {tbd},
+} 
+```
 
 ## Contributions
 
