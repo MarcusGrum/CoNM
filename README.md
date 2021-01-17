@@ -13,6 +13,18 @@ Include the [NMDL](./meta-models/nmdl/modelangelo) in the modeling tool by copyi
 
 Start modeling with the NMDL.
 
+## Try your first NMDL program
+
+The Neuronal Modeling and Description Language (NMDL) is a modeling language
+that is interpreted by the CoNM tool and enables the communication with and interpretation of ANN.
+
+*   Start the modeling tool.
+*   Select `File/New/New Project/` and chose template called `NMDL`.
+*   Create models by following the NMDL standard.
+*   Let the CoNM platform interpret your models. 
+
+For more examples, see the CoNM tutorials and its reference dissertation shown below.
+
 ## Warehouses
 
 The warehouses enable a quick modeling start by providing pre-modeled models. 
