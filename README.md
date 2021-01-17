@@ -1,6 +1,6 @@
 <img src="./images/symbol.png" height="200" />
 
-# Welcome to the platform for CoNM
+# Welcome to the Platform for CoNM
 
 CoNM is an end-to-end open source platform for artificial neuronal networks (ANN).
 It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ANN and developers easily build and deploy ANN-powered applications. Its particular focus lays on the identification and efficient transfer of knowledge of ANN.
