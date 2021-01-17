@@ -16,7 +16,7 @@ Start modeling with the NMDL.
 ## Warehouses
 
 The warehouses enable a quick modeling start by providing pre-modeled models. 
-Take a look at them as a basis to get started and feel free to extend them.
+Take a look at the [warehouses](./warehouses) as a basis to get started and feel free to extend them.
 
 ## Publication
 
