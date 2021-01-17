@@ -20,7 +20,7 @@ Take a look at them as a basis to get started and feel free to extend them.
 
 ## Publication
 
-If you have used CoNM for your published (or unpublished) work, please let me know at marcus.grum@uni-potsdam.de>  and I'll include you in this list. 
+If you have used CoNM for your published (or unpublished) work, please let me know at marcus.grum@uni-potsdam.de and I'll include you in this list. 
 You can cite CoNM in your paper with the following bibtex reference:
 
 ```
