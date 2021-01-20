@@ -1,5 +1,7 @@
 <img src="./images/symbol.png" height="200" />
 
+# Welcome to the Platform for CoNM
+
 CoNM is an end-to-end open source platform for artificial neuronal networks (ANN).
 It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ANN and developers easily build and deploy ANN-powered applications. Its particular focus lays on the identification and efficient transfer of knowledge of ANN.
 
@@ -13,10 +15,22 @@ Include the [NMDL](./meta-models/nmdl/modelangelo) in the modeling tool by copyi
 
 Start modeling with the NMDL.
 
+## Try your first NMDL program
+
+The Neuronal Modeling and Description Language (NMDL) is a modeling language
+that is interpreted by the CoNM tool and enables the communication with and interpretation of ANN.
+
+*   Start the modeling tool.
+*   Select `File/New/New Project/` and chose template called `NMDL`.
+*   Create models by following the NMDL standard.
+*   Let the CoNM platform interpret your models. 
+
+For more examples, see the CoNM tutorials and its reference dissertation shown below.
+
 ## Warehouses
 
 The warehouses enable a quick modeling start by providing pre-modeled models. 
-Take a look at them as a basis to get started and feel free to extend them.
+Take a look at the [warehouses](./warehouses) as a basis to get started and feel free to extend them.
 
 ## Publication
 
