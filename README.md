@@ -25,7 +25,7 @@ that is interpreted by the CoNM tool and enables the communication with and inte
 *   Create models by following the NMDL standard.
 *   Let the CoNM platform interpret your models. 
 
-For more examples, see the CoNM tutorials and its reference dissertation shown below.
+For more examples, see the CoNM [tutorials](./tutorials) and its reference dissertation shown below.
 
 ## Warehouses
 
