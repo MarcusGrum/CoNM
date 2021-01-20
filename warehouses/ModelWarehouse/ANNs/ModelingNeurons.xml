@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <attribute/>
+  <attribute_visibility/>
+  <edge_item ID="22" MODEL="2" MUTANT_CONNECTION="22" SHAPE="nmdl.edges.membership" SOURCE="13" TARGET="14" SOURCE_EDGE="[NULL]" TARGET_EDGE="[NULL]" TYPE="0" SHAPE_DATA="rO0ABXNyABlqYXZhLmF3dC5nZW9tLkdlbmVyYWxQYXRojHA1tD1UO/oCAAB4cgAaamF2YS5hd3Qu&#xA;Z2VvbS5QYXRoMkQkRmxvYXRhBG0iKHLulgMAAHhwdx0wAAAAAgAAAAQBQETF8mdDIAAAQUTJmABD&#xA;IAAAYXg=" SIZE="2.0" FILL_COLOR="-16777216" STROKE_COLOR="-16777216" STROKE_WIDTH="2.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.edges"/>
+  <edge_item ID="23" MODEL="2" MUTANT_CONNECTION="23" SHAPE="nmdl.edges.composition" SOURCE="14" TARGET="5" SOURCE_EDGE="[NULL]" TARGET_EDGE="[NULL]" TYPE="0" SHAPE_DATA="rO0ABXNyABlqYXZhLmF3dC5nZW9tLkdlbmVyYWxQYXRojHA1tD1UO/oCAAB4cgAaamF2YS5hd3Qu&#xA;Z2VvbS5QYXRoMkQkRmxvYXRhBG0iKHLulgMAAHhwdx0wAAAAAgAAAAQBQETPgABDNUAAQUTPgABD&#xA;S2DFYXg=" SIZE="2.0" FILL_COLOR="-16777216" STROKE_COLOR="-16777216" STROKE_WIDTH="2.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.edges"/>
+  <edge_item ID="79" MODEL="2" MUTANT_CONNECTION="79" SHAPE="nmdl.edges.membership" SOURCE="357" TARGET="5" SOURCE_EDGE="[NULL]" TARGET_EDGE="[NULL]" TYPE="0" SHAPE_DATA="rO0ABXNyABlqYXZhLmF3dC5nZW9tLkdlbmVyYWxQYXRojHA1tD1UO/oCAAB4cgAaamF2YS5hd3Qu&#xA;Z2VvbS5QYXRoMkQkRmxvYXRhBG0iKHLulgMAAHhwdx0wAAAAAgAAAAQBQETPgABDpjgAQUTPgABD&#xA;kH8KYXg=" SIZE="2.0" FILL_COLOR="-16777216" STROKE_COLOR="-16777216" STROKE_WIDTH="2.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.edges"/>
+  <label_item ID="8" NODE="5" EDGE="[NULL]" TEXT="Single Neuron" X="683.6687488555908" Y="411.18524944782257" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="34" NODE="13" EDGE="[NULL]" TEXT="Bias" X="522.656252861023" Y="271.65625017881393" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="1" V_ALIGN="2"/>
+  <label_item ID="35" NODE="14" EDGE="[NULL]" TEXT="Axon hill" X="682.0" Y="221.0" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="36" NODE="[NULL]" EDGE="22" TEXT="" X="1598.1625366210938" Y="160.0" FONT="" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="0" V_ALIGN="0"/>
+  <label_item ID="37" NODE="[NULL]" EDGE="23" TEXT="" X="1660.0" Y="192.31400299072266" FONT="" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="0" V_ALIGN="0"/>
+  <label_item ID="131" NODE="75" EDGE="[NULL]" TEXT="Linear" X="442.65625286102295" Y="331.65625017881393" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="1" V_ALIGN="2"/>
+  <label_item ID="132" NODE="76" EDGE="[NULL]" TEXT="TanH" X="432.65625286102295" Y="401.65625017881393" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="1" V_ALIGN="2"/>
+  <label_item ID="133" NODE="77" EDGE="[NULL]" TEXT="Sigmoid" X="432.65625286102295" Y="471.65625017881393" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="1" V_ALIGN="2"/>
+  <label_item ID="497" NODE="356" EDGE="[NULL]" TEXT="Activation of Single Neuron" X="303.5896401103622" Y="551.2799682617188" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="498" NODE="357" EDGE="[NULL]" TEXT="Activation of Single Neuron" X="1272.65625" Y="521.65625" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="499" NODE="[NULL]" EDGE="79" TEXT="" X="1659.421875" Y="365.7149963378906" FONT="" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="false" H_ALIGN="0" V_ALIGN="0"/>
+  <meta_attribute ID="1" AT_ID="1xkl9iw8t6r8c" NAME="Learning Rate" DATA_TYPE="Text"/>
+  <meta_attribute ID="2" AT_ID="qghfay3fhypu" NAME="Momentum" DATA_TYPE="Text"/>
+  <meta_attribute ID="3" AT_ID="1k3tx6jvm5sji" NAME="Learning Rate Decay" DATA_TYPE="Text"/>
+  <meta_attribute ID="4" AT_ID="ttjo75g1vlpi" NAME="Weight Decay" DATA_TYPE="Text"/>
+  <meta_attribute ID="5" AT_ID="ez1wvu5h0s0t" NAME="Number of Epochs" DATA_TYPE="Text"/>
+  <meta_attribute ID="6" AT_ID="1ifr7jb5t37yv" NAME="Maximum Epochs" DATA_TYPE="Text"/>
+  <meta_attribute ID="7" AT_ID="9iw3afcpveyr" NAME="Continue Epochs" DATA_TYPE="Text"/>
+  <meta_attribute ID="8" AT_ID="1tabkn0i2eum2" NAME="Convergence Threshold" DATA_TYPE="Text"/>
+  <meta_attribute ID="9" AT_ID="pcbcavtb1tq2" NAME="Training Dataset" DATA_TYPE="Text"/>
+  <meta_attribute ID="10" AT_ID="c4i0grjpmtd2" NAME="Validation Dataset" DATA_TYPE="Text"/>
+  <meta_attribute ID="11" AT_ID="1v7sbvs90ugon" NAME="Validation Proportion" DATA_TYPE="Text"/>
+  <meta_attribute ID="12" AT_ID="oh5b6l49n4mg" NAME="Training Sessions" DATA_TYPE="Text"/>
+  <meta_attribute ID="13" AT_ID="17k2ycl85vya9" NAME="Knowledge Value" DATA_TYPE="Text"/>
+  <meta_attribute ID="14" AT_ID="y7ottkx2rtph" NAME="SetView Model" DATA_TYPE="Model"/>
+  <meta_attribute ID="15" AT_ID="1dv671uguc1l9" NAME="NeuronalOverview Model" DATA_TYPE="Model"/>
+  <meta_attribute ID="16" AT_ID="3vzv2l85yn00" NAME="NeuronView Model" DATA_TYPE="Model"/>
+  <meta_attribute ID="17" AT_ID="rsmnjpj9w4t8" NAME="ActivationView Model" DATA_TYPE="Model"/>
+  <meta_attributes_to_graphic ID="5" META_ATTRIBUTE="9" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.data_set"/>
+  <meta_attributes_to_graphic ID="6" META_ATTRIBUTE="13" GRAPHICS_TO_VIEW="NMDL.set_view:nodes.explicit_knowledge_object"/>
+  <meta_attributes_to_graphic ID="7" META_ATTRIBUTE="14" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.data_set"/>
+  <meta_attributes_to_graphic ID="8" META_ATTRIBUTE="10" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.data_set"/>
+  <meta_attributes_to_graphic ID="9" META_ATTRIBUTE="13" GRAPHICS_TO_VIEW="NMDL.knowledge_overview:nodes.explicit_knowledge_object"/>
+  <meta_attributes_to_graphic ID="10" META_ATTRIBUTE="15" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.activation"/>
+  <meta_attributes_to_graphic ID="11" META_ATTRIBUTE="16" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.activation"/>
+  <meta_attributes_to_graphic ID="12" META_ATTRIBUTE="17" GRAPHICS_TO_VIEW="NMDL.neuronal_overview:nodes.activation"/>
+  <model ID="2" PROJECT="1" VIEW="NMDL.neuron_view" NAME="NeuronView on Neuron" LOCALNAME="" PUBLICMODEL="not relevant" STATE="draft" VERSION="" LOCATION="[NULL]" AREA="[NULL]" ATTENTIONGROUP="[NULL]" CONTENTLANGUAGE="[NULL]" AUTHOR="Marcus Grum" MAIL="" URL="" VALIDFOR="[NULL]" VALIDUNTIL="2021-01-19" DATE="2021-01-19 15:35:07.0" DESCRIPTION=""/>
+  <mutant_connection ID="22" MC_ID="c60e1jv5r681" DEFAULT_SHAPE="nmdl.edges.membership" SOURCE="13" TARGET="14" SOURCE_CONNECTION="[NULL]" TARGET_CONNECTION="[NULL]"/>
+  <mutant_connection ID="23" MC_ID="we5e8ubmy9my" DEFAULT_SHAPE="nmdl.edges.composition" SOURCE="14" TARGET="5" SOURCE_CONNECTION="[NULL]" TARGET_CONNECTION="[NULL]"/>
+  <mutant_connection ID="79" MC_ID="tbr7h0rck0id" DEFAULT_SHAPE="nmdl.edges.membership" SOURCE="208" TARGET="5" SOURCE_CONNECTION="[NULL]" TARGET_CONNECTION="[NULL]"/>
+  <mutant_object ID="5" MO_ID="qw77tyagl87d" DEFAULT_SHAPE="nmdl.nodes.neuron"/>
+  <mutant_object ID="13" MO_ID="1vfkycm29l4pu" DEFAULT_SHAPE="nmdl.nodes.activation_function"/>
+  <mutant_object ID="14" MO_ID="s61wvo670qdx" DEFAULT_SHAPE="nmdl.nodes.axon_hill"/>
+  <mutant_object ID="57" MO_ID="1oy9mij44v3jx" DEFAULT_SHAPE="nmdl.nodes.activation_function"/>
+  <mutant_object ID="58" MO_ID="1doz5g2f0888d" DEFAULT_SHAPE="nmdl.nodes.activation_function"/>
+  <mutant_object ID="59" MO_ID="13p9big4fp5z6" DEFAULT_SHAPE="nmdl.nodes.activation_function"/>
+  <mutant_object ID="207" MO_ID="10u1vmaw2va0w" DEFAULT_SHAPE="nmdl.nodes.system_border"/>
+  <mutant_object ID="208" MO_ID="1mb8e96alae91" DEFAULT_SHAPE="nmdl.nodes.activation"/>
+  <node_item ID="5" MODEL="2" MUTANT_OBJECT="5" SHAPE="nmdl.nodes.neuron" PARENT="356" X="1620.0" Y="230.0" Z="268435556" WIDTH="68.24850082397461" HEIGHT="59.614497900009155" SIZE="1.0" FILL_COLOR="-7242687" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="13" MODEL="2" MUTANT_OBJECT="13" SHAPE="nmdl.nodes.activation_function" PARENT="356" X="1500.0" Y="140.0" Z="268435556" WIDTH="81.83756446838379" HEIGHT="37.96255838871002" SIZE="1.0" FILL_COLOR="-2704169" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="14" MODEL="2" MUTANT_OBJECT="14" SHAPE="nmdl.nodes.axon_hill" PARENT="356" X="1620.0" Y="140.0" Z="268435556" WIDTH="82.5" HEIGHT="40.5" SIZE="1.0" FILL_COLOR="-48" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="75" MODEL="2" MUTANT_OBJECT="57" SHAPE="nmdl.nodes.activation_function" PARENT="[NULL]" X="1340.0" Y="120.0" Z="268435456" WIDTH="81.83756446838379" HEIGHT="37.96255838871002" SIZE="1.0" FILL_COLOR="-2704169" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="76" MODEL="2" MUTANT_OBJECT="58" SHAPE="nmdl.nodes.activation_function" PARENT="[NULL]" X="1340.0" Y="190.0" Z="268435456" WIDTH="81.83756446838379" HEIGHT="37.96255838871002" SIZE="1.0" FILL_COLOR="-2704169" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="77" MODEL="2" MUTANT_OBJECT="59" SHAPE="nmdl.nodes.activation_function" PARENT="[NULL]" X="1340.0" Y="250.0" Z="268435456" WIDTH="81.83756446838379" HEIGHT="37.96255838871002" SIZE="1.0" FILL_COLOR="-2704169" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="356" MODEL="2" MUTANT_OBJECT="207" SHAPE="nmdl.nodes.system_border" PARENT="[NULL]" X="1468.8610585343038" Y="98.67607241738779" Z="268435456" WIDTH="296.7126561472769" HEIGHT="290.7628035362583" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="357" MODEL="2" MUTANT_OBJECT="208" SHAPE="nmdl.nodes.activation" PARENT="356" X="1620.0" Y="330.0" Z="268435556" WIDTH="82.3125" HEIGHT="38.4375" SIZE="1.0" FILL_COLOR="-4398647" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <project ID="1" META_MODEL="nmdl" NAME="Modeling Neurons" LOCALNAME="" PUBLICPROJECT="not relevant" STATE="draft" VERSION="" LOCATION="[NULL]" AREA="[NULL]" ATTENTIONGROUP="[NULL]" CONTENTLANGUAGE="[NULL]" AUTHOR="Marcus Grum" MAIL="" URL="" VALIDFOR="[NULL]" VALIDUNTIL="2021-01-19" DATE="2021-01-19 15:33:10.0" DESCRIPTION="A variant to model Neurons by NMDL."/>
+  <property NAME="project.k-modeler.version" VALUE="2.7.0"/>
+  <property NAME="project.last-used-model" VALUE="2"/>
+  <property NAME="project.meta-model.version" VALUE="43"/>
+  <view/>
+  <graphics_to_view/>
+</dataset>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <attribute ID="16" META_ATTRIBUTE="13" MUTANT_OBJECT="33" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="0.0"/>
+  <attribute ID="17" META_ATTRIBUTE="13" MUTANT_OBJECT="34" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="0.0"/>
+  <attribute ID="18" META_ATTRIBUTE="13" MUTANT_OBJECT="35" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="0.0"/>
+  <attribute ID="19" META_ATTRIBUTE="13" MUTANT_OBJECT="37" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="0.0"/>
+  <attribute ID="20" META_ATTRIBUTE="13" MUTANT_OBJECT="38" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="1.0"/>
+  <attribute ID="21" META_ATTRIBUTE="13" MUTANT_OBJECT="39" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="1.0"/>
+  <attribute ID="22" META_ATTRIBUTE="13" MUTANT_OBJECT="41" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="1.0"/>
+  <attribute ID="23" META_ATTRIBUTE="13" MUTANT_OBJECT="42" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="0.0"/>
+  <attribute ID="24" META_ATTRIBUTE="13" MUTANT_OBJECT="43" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="1.0"/>
+  <attribute ID="25" META_ATTRIBUTE="13" MUTANT_OBJECT="45" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="1.0"/>
+  <attribute ID="26" META_ATTRIBUTE="13" MUTANT_OBJECT="46" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="1.0"/>
+  <attribute ID="27" META_ATTRIBUTE="13" MUTANT_OBJECT="47" MUTANT_CONNECTION="[NULL]" META_ATTRIBUTES_TO_GRAPHIC="6" VALUE="0.0"/>
+  <attribute_visibility/>
+  <edge_item/>
+  <label_item ID="76" NODE="32" EDGE="[NULL]" TEXT="Moment border 1" X="542.0190315246582" Y="291.21533203125" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="80" NODE="36" EDGE="[NULL]" TEXT="SensInp1a = 0" X="387.0167500972748" Y="421.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="81" NODE="37" EDGE="[NULL]" TEXT="SensInp2a = 0" X="437.0167500972748" Y="381.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="82" NODE="38" EDGE="[NULL]" TEXT="SensOut1a = 0" X="427.0167500972748" Y="451.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="83" NODE="39" EDGE="[NULL]" TEXT="Moment border 2" X="502.0190315246582" Y="191.21533203125" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="84" NODE="40" EDGE="[NULL]" TEXT="SensInp1b = 0" X="497.0167500972748" Y="191.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="85" NODE="41" EDGE="[NULL]" TEXT="SensInp2b = 1" X="497.0167500972748" Y="191.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="86" NODE="42" EDGE="[NULL]" TEXT="SensOut1b = 1" X="497.0167500972748" Y="191.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="87" NODE="43" EDGE="[NULL]" TEXT="Moment border 3" X="612.0190315246582" Y="311.21533203125" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="88" NODE="44" EDGE="[NULL]" TEXT="SensInp1c = 1" X="607.0167500972748" Y="311.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="89" NODE="45" EDGE="[NULL]" TEXT="SensInp2c = 0" X="607.0167500972748" Y="311.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="90" NODE="46" EDGE="[NULL]" TEXT="SensOut1c = 1" X="607.0167500972748" Y="311.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="91" NODE="47" EDGE="[NULL]" TEXT="Moment border 4" X="802.0190315246582" Y="361.21533203125" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="92" NODE="48" EDGE="[NULL]" TEXT="SensInp1d = 1" X="797.0167500972748" Y="361.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="93" NODE="49" EDGE="[NULL]" TEXT="SensInp2d = 1" X="797.0167500972748" Y="361.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="94" NODE="50" EDGE="[NULL]" TEXT="SensOut1d = 0" X="797.0167500972748" Y="361.2617506980896" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="2"/>
+  <label_item ID="95" NODE="51" EDGE="[NULL]" TEXT="Sequence border 1" X="-7.980968475341797" Y="251.0" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="96" NODE="52" EDGE="[NULL]" TEXT="Sequence border 2" X="82.0190315246582" Y="241.0" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="101" NODE="57" EDGE="[NULL]" TEXT="Sequence border 3" X="152.0190315246582" Y="321.0" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="102" NODE="58" EDGE="[NULL]" TEXT="Sequence border 4" X="482.0190315246582" Y="261.0" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <label_item ID="103" NODE="59" EDGE="[NULL]" TEXT="SetView of Dataset XOR" X="403.5896401103622" Y="431.27996826171875" FONT="MyriadPro-Regular" FONT_COLOR="-16777216" FONT_SIZE="12" VISIBLE="true" H_ALIGN="2" V_ALIGN="4"/>
+  <meta_attribute ID="1" AT_ID="1xkl9iw8t6r8c" NAME="Learning Rate" DATA_TYPE="Text"/>
+  <meta_attribute ID="2" AT_ID="qghfay3fhypu" NAME="Momentum" DATA_TYPE="Text"/>
+  <meta_attribute ID="3" AT_ID="1k3tx6jvm5sji" NAME="Learning Rate Decay" DATA_TYPE="Text"/>
+  <meta_attribute ID="4" AT_ID="ttjo75g1vlpi" NAME="Weight Decay" DATA_TYPE="Text"/>
+  <meta_attribute ID="5" AT_ID="ez1wvu5h0s0t" NAME="Number of Epochs" DATA_TYPE="Text"/>
+  <meta_attribute ID="6" AT_ID="1ifr7jb5t37yv" NAME="Maximum Epochs" DATA_TYPE="Text"/>
+  <meta_attribute ID="7" AT_ID="9iw3afcpveyr" NAME="Continue Epochs" DATA_TYPE="Text"/>
+  <meta_attribute ID="8" AT_ID="1tabkn0i2eum2" NAME="Convergence Threshold" DATA_TYPE="Text"/>
+  <meta_attribute ID="9" AT_ID="pcbcavtb1tq2" NAME="Training Dataset" DATA_TYPE="Text"/>
+  <meta_attribute ID="10" AT_ID="c4i0grjpmtd2" NAME="Validation Dataset" DATA_TYPE="Text"/>
+  <meta_attribute ID="11" AT_ID="1v7sbvs90ugon" NAME="Validation Proportion" DATA_TYPE="Text"/>
+  <meta_attribute ID="12" AT_ID="oh5b6l49n4mg" NAME="Training Sessions" DATA_TYPE="Text"/>
+  <meta_attribute ID="13" AT_ID="17k2ycl85vya9" NAME="Knowledge Value" DATA_TYPE="Text"/>
+  <meta_attribute ID="14" AT_ID="y7ottkx2rtph" NAME="SetView Model" DATA_TYPE="Model"/>
+  <meta_attribute ID="15" AT_ID="1dv671uguc1l9" NAME="NeuronalOverview Model" DATA_TYPE="Model"/>
+  <meta_attribute ID="16" AT_ID="3vzv2l85yn00" NAME="NeuronView Model" DATA_TYPE="Model"/>
+  <meta_attributes_to_graphic ID="1" META_ATTRIBUTE="1" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.trainer"/>
+  <meta_attributes_to_graphic ID="2" META_ATTRIBUTE="2" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.trainer"/>
+  <meta_attributes_to_graphic ID="3" META_ATTRIBUTE="3" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.trainer"/>
+  <meta_attributes_to_graphic ID="4" META_ATTRIBUTE="4" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.trainer"/>
+  <meta_attributes_to_graphic ID="5" META_ATTRIBUTE="9" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.data_set"/>
+  <meta_attributes_to_graphic ID="6" META_ATTRIBUTE="13" GRAPHICS_TO_VIEW="NMDL.set_view:nodes.explicit_knowledge_object"/>
+  <meta_attributes_to_graphic ID="7" META_ATTRIBUTE="14" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.data_set"/>
+  <meta_attributes_to_graphic ID="8" META_ATTRIBUTE="10" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.data_set"/>
+  <meta_attributes_to_graphic ID="9" META_ATTRIBUTE="13" GRAPHICS_TO_VIEW="NMDL.knowledge_overview:nodes.explicit_knowledge_object"/>
+  <meta_attributes_to_graphic ID="10" META_ATTRIBUTE="15" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.activation"/>
+  <meta_attributes_to_graphic ID="11" META_ATTRIBUTE="16" GRAPHICS_TO_VIEW="NMDL.activation_view:nodes.activation"/>
+  <model ID="3" PROJECT="1" VIEW="NMDL.set_view" NAME="SetView of Dataset XOR" LOCALNAME="[NULL]" PUBLICMODEL="[NULL]" STATE="[NULL]" VERSION="[NULL]" LOCATION="[NULL]" AREA="[NULL]" ATTENTIONGROUP="[NULL]" CONTENTLANGUAGE="[NULL]" AUTHOR="Marcus Grum" MAIL="" URL="" VALIDFOR="[NULL]" VALIDUNTIL="2021-01-19" DATE="2021-01-19 15:52:53.0" DESCRIPTION=""/>
+  <mutant_connection/>
+  <mutant_object ID="32" MO_ID="ri7zsl5vqkdn" DEFAULT_SHAPE="nmdl.nodes.moment_border"/>
+  <mutant_object ID="33" MO_ID="4p86n395td4z" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="34" MO_ID="17fgdfhnnkopf" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="35" MO_ID="1rzvukn4dtz3l" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="36" MO_ID="1qctziqf8bvlw" DEFAULT_SHAPE="nmdl.nodes.moment_border"/>
+  <mutant_object ID="37" MO_ID="10112wlyuf4zc" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="38" MO_ID="1xtp2qvmti5u4" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="39" MO_ID="b159idaq3liy" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="40" MO_ID="iibz1qciq2zc" DEFAULT_SHAPE="nmdl.nodes.moment_border"/>
+  <mutant_object ID="41" MO_ID="r95hdotsu5dy" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="42" MO_ID="1tsva5g7r40mh" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="43" MO_ID="6y6iihvdbdry" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="44" MO_ID="1mi8d8fsvpijk" DEFAULT_SHAPE="nmdl.nodes.moment_border"/>
+  <mutant_object ID="45" MO_ID="1i97ieln5i8ku" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="46" MO_ID="yd60ieq9gjqi" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="47" MO_ID="etogr4gpse95" DEFAULT_SHAPE="nmdl.nodes.explicit_knowledge_object"/>
+  <mutant_object ID="48" MO_ID="1q9to9d8n3xiz" DEFAULT_SHAPE="nmdl.nodes.sequence_border"/>
+  <mutant_object ID="49" MO_ID="lgx48t7h4m5s" DEFAULT_SHAPE="nmdl.nodes.sequence_border"/>
+  <mutant_object ID="54" MO_ID="1ubwao3428fpj" DEFAULT_SHAPE="nmdl.nodes.sequence_border"/>
+  <mutant_object ID="55" MO_ID="1bfmjrw456atb" DEFAULT_SHAPE="nmdl.nodes.sequence_border"/>
+  <mutant_object ID="56" MO_ID="1vnxg0hl6mvv9" DEFAULT_SHAPE="nmdl.nodes.system_border"/>
+  <node_item ID="32" MODEL="3" MUTANT_OBJECT="32" SHAPE="nmdl.nodes.moment_border" PARENT="51" X="188.28807927675297" Y="-32.12440471370621" Z="268436256" WIDTH="364.4619044958105" HEIGHT="123.67947348991243" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="36" MODEL="3" MUTANT_OBJECT="33" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="32" X="240.0" Y="-10.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="37" MODEL="3" MUTANT_OBJECT="34" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="32" X="240.0" Y="40.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="38" MODEL="3" MUTANT_OBJECT="35" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="32" X="440.0" Y="20.0" Z="268436356" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="39" MODEL="3" MUTANT_OBJECT="36" SHAPE="nmdl.nodes.moment_border" PARENT="52" X="170.0" Y="170.0" Z="268436256" WIDTH="364.4619044958105" HEIGHT="123.67947348991243" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="40" MODEL="3" MUTANT_OBJECT="37" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="39" X="220.0" Y="190.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="41" MODEL="3" MUTANT_OBJECT="38" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="39" X="220.0" Y="240.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="42" MODEL="3" MUTANT_OBJECT="39" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="39" X="410.0" Y="220.0" Z="268436356" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="43" MODEL="3" MUTANT_OBJECT="40" SHAPE="nmdl.nodes.moment_border" PARENT="57" X="180.0" Y="380.0" Z="268436256" WIDTH="364.4619044958105" HEIGHT="123.67947348991243" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="44" MODEL="3" MUTANT_OBJECT="41" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="43" X="230.0" Y="400.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="45" MODEL="3" MUTANT_OBJECT="42" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="43" X="230.0" Y="450.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="46" MODEL="3" MUTANT_OBJECT="43" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="43" X="420.0" Y="430.0" Z="268436356" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="47" MODEL="3" MUTANT_OBJECT="44" SHAPE="nmdl.nodes.moment_border" PARENT="58" X="150.0" Y="580.0" Z="268436256" WIDTH="364.4619044958105" HEIGHT="123.67947348991243" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="48" MODEL="3" MUTANT_OBJECT="45" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="47" X="200.0" Y="600.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="49" MODEL="3" MUTANT_OBJECT="46" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="47" X="200.0" Y="650.0" Z="268437156" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="50" MODEL="3" MUTANT_OBJECT="47" SHAPE="nmdl.nodes.explicit_knowledge_object" PARENT="47" X="390.0" Y="630.0" Z="268436356" WIDTH="89.96550035476685" HEIGHT="30.547499656677246" SIZE="1.0" FILL_COLOR="-1394761" STROKE_COLOR="-16711423" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="51" MODEL="3" MUTANT_OBJECT="48" SHAPE="nmdl.nodes.sequence_border" PARENT="59" X="149.94575363612273" Y="-72.84022379266759" Z="268435556" WIDTH="441.14655577707083" HEIGHT="184.68044758533517" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="52" MODEL="3" MUTANT_OBJECT="49" SHAPE="nmdl.nodes.sequence_border" PARENT="59" X="140.0" Y="140.0" Z="268435556" WIDTH="441.14655577707083" HEIGHT="184.68044758533517" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="57" MODEL="3" MUTANT_OBJECT="54" SHAPE="nmdl.nodes.sequence_border" PARENT="59" X="130.0" Y="340.0" Z="268435556" WIDTH="441.14655577707083" HEIGHT="184.68044758533517" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="58" MODEL="3" MUTANT_OBJECT="55" SHAPE="nmdl.nodes.sequence_border" PARENT="59" X="110.0" Y="540.0" Z="268435556" WIDTH="441.14655577707083" HEIGHT="184.68044758533517" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <node_item ID="59" MODEL="3" MUTANT_OBJECT="56" SHAPE="nmdl.nodes.system_border" PARENT="[NULL]" X="86.16263297975672" Y="-137.21612386091778" Z="268435456" WIDTH="529.9887914204476" HEIGHT="874.9329801437106" SIZE="1.0" FILL_COLOR="-1" STROKE_COLOR="-16777216" STROKE_WIDTH="1.0" LABELED="true" VISIBLE="true" DATA_GROUP="graph.nodes"/>
+  <project ID="1" META_MODEL="nmdl" NAME="Modeling Xor Datasets" LOCALNAME="" PUBLICPROJECT="not relevant" STATE="draft" VERSION="" LOCATION="[NULL]" AREA="[NULL]" ATTENTIONGROUP="[NULL]" CONTENTLANGUAGE="[NULL]" AUTHOR="Marcus Grum" MAIL="" URL="" VALIDFOR="[NULL]" VALIDUNTIL="2021-01-19" DATE="2021-01-19 15:52:10.0" DESCRIPTION="A variant to model Xor datasets by NMDL."/>
+  <property NAME="project.k-modeler.version" VALUE="2.7.0"/>
+  <property NAME="project.last-used-model" VALUE="3"/>
+  <property NAME="project.meta-model.version" VALUE="43"/>
+  <view/>
+  <graphics_to_view/>
+</dataset>
