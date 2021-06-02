@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<PyBrain>
+	<Network class="pybrain.structure.networks.recurrent.RecurrentNetwork" name="RecurrentNetwork-14">
+		<name val="'RecurrentNetwork-14'"/>
+		<Modules>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" inmodule="True" name="In A Neuron">
+				<name val="'In A Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" inmodule="True" name="In B Neuron">
+				<name val="'In B Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Out C Neuron" outmodule="True">
+				<name val="'Out C Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<BiasUnit class="pybrain.structure.modules.biasunit.BiasUnit" name="Bias">
+				<name val="'Bias'"/>
+			</BiasUnit>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Hidden A Neuron">
+				<name val="'Hidden A Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Hidden B Neuron">
+				<name val="'Hidden B Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Out A Neuron">
+				<name val="'Out A Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Out B Neuron">
+				<name val="'Out B Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<TanhLayer class="pybrain.structure.modules.tanhlayer.TanhLayer" name="Inp1">
+				<name val="'Inp1'"/>
+				<dim val="1"/>
+			</TanhLayer>
+			<TanhLayer class="pybrain.structure.modules.tanhlayer.TanhLayer" name="Inp2">
+				<name val="'Inp2'"/>
+				<dim val="1"/>
+			</TanhLayer>
+			<LSTMLayer class="pybrain.structure.modules.lstm.LSTMLayer" name="LSTM Block 1">
+				<dim val="1"/>
+				<peepholes val="True"/>
+				<name val="'LSTM Block 1'"/>
+				<Parameters>[4.961890697479248, 1.7559142112731934, 4.1726374626159668]</Parameters>
+			</LSTMLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Output 1">
+				<name val="'Output 1'"/>
+				<dim val="1"/>
+			</LinearLayer>
+			<TanhLayer class="pybrain.structure.modules.tanhlayer.TanhLayer" name="In C Neuron">
+				<name val="'In C Neuron'"/>
+				<dim val="1"/>
+			</TanhLayer>
+			<LinearLayer class="pybrain.structure.modules.linearlayer.LinearLayer" name="Hidden C Neuron">
+				<name val="'Hidden C Neuron'"/>
+				<dim val="1"/>
+			</LinearLayer>
+		</Modules>
+		<Connections>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Bias -&gt; LSTM1 Cell 1">
+				<inmod val="Bias"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="2"/>
+				<outSliceTo val="3"/>
+				<Parameters>[3.5970869064331055]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Bias -&gt; LSTM1 Forget Gate">
+				<inmod val="Bias"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="1"/>
+				<outSliceTo val="2"/>
+				<Parameters>[2.2746138572692871]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Bias -&gt; LSTM1 Input Gate">
+				<inmod val="Bias"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceTo val="1"/>
+				<Parameters>[-2.0856578350067139]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Bias -&gt; LSTM1 Output Gate">
+				<inmod val="Bias"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="3"/>
+				<Parameters>[-7.1714973449707031]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="In A Neuron -&gt; Hidden A Neuron">
+				<inmod val="In A Neuron"/>
+				<outmod val="Hidden A Neuron"/>
+				<Parameters>[0.25]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="In B Neuron -&gt; Hidden B Neuron">
+				<inmod val="In B Neuron"/>
+				<outmod val="Hidden B Neuron"/>
+				<Parameters>[0.25]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Hidden A Neuron -&gt; Out A Neuron">
+				<inmod val="Hidden A Neuron"/>
+				<outmod val="Out A Neuron"/>
+				<Parameters>[4.0]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Hidden B Neuron -&gt; Out B Neuron">
+				<inmod val="Hidden B Neuron"/>
+				<outmod val="Out B Neuron"/>
+				<Parameters>[4.0]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Out A Neuron -&gt; Inp1">
+				<inmod val="Out A Neuron"/>
+				<outmod val="Inp1"/>
+				<Parameters>[4.0]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Out B Neuron -&gt; Inp2">
+				<inmod val="Out B Neuron"/>
+				<outmod val="Inp2"/>
+				<Parameters>[4.0]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp1 -&gt; LSTM1 Cell 1">
+				<inmod val="Inp1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="2"/>
+				<outSliceTo val="3"/>
+				<Parameters>[-2.6045768260955811]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp1 -&gt; LSTM1 Forget Gate">
+				<inmod val="Inp1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="1"/>
+				<outSliceTo val="2"/>
+				<Parameters>[1.3108367919921875]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp1 -&gt; LSTM1 Input Gate">
+				<inmod val="Inp1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceTo val="1"/>
+				<Parameters>[2.1240966320037842]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp1 -&gt; LSTM1 Output Gate">
+				<inmod val="Inp1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="3"/>
+				<Parameters>[-0.97936457395553589]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp2 -&gt; LSTM1 Cell 1">
+				<inmod val="Inp2"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="2"/>
+				<outSliceTo val="3"/>
+				<Parameters>[-2.8289861679077148]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp2 -&gt; LSTM1 Forget Gate">
+				<inmod val="Inp2"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="1"/>
+				<outSliceTo val="2"/>
+				<Parameters>[-0.16069091856479645]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp2 -&gt; LSTM1 Input Gate">
+				<inmod val="Inp2"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceTo val="1"/>
+				<Parameters>[2.5018377304077148]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Inp2 -&gt; LSTM1 Output Gate">
+				<inmod val="Inp2"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="3"/>
+				<Parameters>[-1.4641677141189575]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="LSTM1 Cell 1 -&gt; Output 1">
+				<inmod val="LSTM Block 1"/>
+				<outmod val="Output 1"/>
+				<Parameters>[2.2359921932220459]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Output 1 -&gt; In C Neuron">
+				<inmod val="Output 1"/>
+				<outmod val="In C Neuron"/>
+				<Parameters>[4.0]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="In C Neuron -&gt; Hidden C Neuron">
+				<inmod val="In C Neuron"/>
+				<outmod val="Hidden C Neuron"/>
+				<Parameters>[0.25]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="Hidden C Neuron -&gt; Out C Neuron">
+				<inmod val="Hidden C Neuron"/>
+				<outmod val="Out C Neuron"/>
+				<Parameters>[4.0]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="LSTM1 Cell 1 -&gt; LSTM1 Cell 1" recurrent="True">
+				<inmod val="LSTM Block 1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="2"/>
+				<outSliceTo val="3"/>
+				<Parameters>[-1.2909470796585083]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="LSTM1 Cell 1 -&gt; LSTM1 Forget Gate" recurrent="True">
+				<inmod val="LSTM Block 1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="1"/>
+				<outSliceTo val="2"/>
+				<Parameters>[-0.1964188814163208]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="LSTM1 Cell 1 -&gt; LSTM1 Input Gate" recurrent="True">
+				<inmod val="LSTM Block 1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceTo val="1"/>
+				<Parameters>[-0.2115606814622879]</Parameters>
+			</FullConnection>
+			<FullConnection class="pybrain.structure.connections.full.FullConnection" name="LSTM1 Cell 1 -&gt; LSTM1 Output Gate" recurrent="True">
+				<inmod val="LSTM Block 1"/>
+				<outmod val="LSTM Block 1"/>
+				<outSliceFrom val="3"/>
+				<Parameters>[1.5029646158218384]</Parameters>
+			</FullConnection>
+		</Connections>
+	</Network>
+</PyBrain>
