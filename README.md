@@ -50,7 +50,7 @@ You can cite CoNM in your paper with the following bibtex reference:
 
 ## Further Publications
 
-Grum M. (2020) Managing Human and Artificial Knowledge Bearers. In: Shishkov B. (eds) Business Modeling and Software Design. BMSD 2020. Lecture Notes in Business Information Processing, vol 391. Springer, Cham. https://doi.org/10.1007/978-3-030-52306-0_12
+Grum M. 2020. Managing Human and Artificial Knowledge Bearers. In: Shishkov B. (eds) Business Modeling and Software Design. BMSD 2020. Lecture Notes in Business Information Processing, vol 391. Springer, Cham. https://doi.org/10.1007/978-3-030-52306-0_12
 
 Grum, M., Hiessl, W., Maresch, K. and Gronau, N. 2021. Design of a Neuronal Training Modeling Language: Exemplified with the AI-Based Dynamic GUI Adaption. AIS Transactions on Enterprise Systems. 5, 1 (Mar. 2021). DOI:https://doi.org/10.30844/aistes.v5i1.20.
 
