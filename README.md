@@ -54,7 +54,7 @@ Grum M. 2020. Managing Human and Artificial Knowledge Bearers. In: Shishkov B. (
 
 Grum, M., Hiessl, W., Maresch, K. and Gronau, N. 2021. Design of a Neuronal Training Modeling Language: Exemplified with the AI-Based Dynamic GUI Adaption. AIS Transactions on Enterprise Systems. 5, 1 (Mar. 2021). DOI:https://doi.org/10.30844/aistes.v5i1.20.
 
-Grum, M. and Gronau, N. 2021. Managing Knowledge of Intelligent Systems - The Design of a Chatbot using Domain-Specific Knowledge. BMSD 2021. Print will appear in the next months
+Grum M., Kotarski D., Ambros M., Biru T., Krallmann H., Gronau N. (2021) Managing Knowledge of Intelligent Systems - The Design of a Chatbot Using Domain-Specific Knowledge. In: Shishkov B. (eds) Business Modeling and Software Design. BMSD 2021. Lecture Notes in Business Information Processing, vol 422. Springer, Cham. https://doi.org/10.1007/978-3-030-79976-2_5
 
 ## Contributions
 
