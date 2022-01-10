@@ -19,7 +19,7 @@ Start modeling with the NMDL.
 
 ### ... at draw.io or diagrams
 
-Download the meta-model from [this repository](./meta-models/nmdl/drawio).
+Download the meta-model from the repository [here](./meta-models/nmdl/drawio).
 
 Access the online modeling tool called [diagrams](https://app.diagrams.net/) or [draw.io](https://draw.io/) via your browser.
 
