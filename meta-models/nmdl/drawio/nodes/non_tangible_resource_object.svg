@@ -16,11 +16,20 @@
 	<style
      type="text/css"
      id="style7">
-	.st0{fill:#C7FFEE;fill-rule:evenodd;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1}
+	.st0{fill:#C7FFEE;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1}
   </style>
 <g id="layer1" transform="translate(0,-1024.3622)" inkscape:groupmode="layer" inkscape:label="Layer 1">
 	
-		<path id="path4857" sodipodi:nodetypes="ccccccc" inkscape:connector-curvature="0" fill="#C7FFEE" stroke="#000000" stroke-width="1.5033" d="
+		<path id="path4857" sodipodi:nodetypes="ccccccc" inkscape:connector-curvature="0" fill="#C7FFEE" stroke="#000000" stroke-width="1" d="
 		M0.727,1051.636h54.521v-19.251l-7.37-7.273H8.124l-7.397,7.273V1051.636z"/>
 </g>
+<rect
+    class="st0"
+    id="rect3703"
+    width="56"
+    height="28"
+    x="0"
+    y="0"
+    style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+/>
 </svg>

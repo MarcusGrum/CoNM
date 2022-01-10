@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Zeichnung1.svg Zeichenblatt-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="56" height="28"
+		viewBox="0 0 57 29" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st2 {fill:#FFFFCF;stroke:#000000;stroke-width:1}
+		.st1 {fill:#FFFFCF;stroke:#000000;stroke-width:1}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g transform="translate(0.5 0.5)" v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Zeichenblatt-1</title>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape">
+			<title>Rechteck</title>
+			<rect x="0" y="0" width="56" height="28" class="st1" fill="#FFFFCF" stroke="#000000" stroke-width="1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape">
+			<title>Rechteck.2</title>
+			<rect x="0" y="4" width="56" height="20" class="st2" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+		</g>
+	</g>
+<rect
+    class="st0"
+    id="rect3703"
+    width="57"
+    height="29"
+    x="0"
+    y="0"
+    style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+/>
+
+</svg>

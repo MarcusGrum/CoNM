@@ -7,25 +7,44 @@ It has a comprehensive, flexible ecosystem of tools, libraries, and community re
 
 The tool was originally developed by Marcus Grum.
 
-## Install
+## Install 
 
-Download a process modeling tool called [Modelangelo](https://lswi.de/expertise/werkzeuge/modelangelo?lang=en).
+### ... at Modelangelo
+
+Download the process modeling tool called [Modelangelo](https://lswi.de/expertise/werkzeuge/modelangelo?lang=en).
 
 Include the [NMDL](./meta-models/nmdl/modelangelo) in the modeling tool by copying it to `./templates`.
 
 Start modeling with the NMDL.
 
-## Try your first NMDL program
+### ... at draw.io or diagrams
+
+Download the meta-model from [this repository](./meta-models/nmdl/drawio).
+
+Access the online modeling tool called [diagrams](https://app.diagrams.net/) or [draw.io](https://draw.io/) via your browser.
+
+Include the libraries downloaded in the modeling tool via the menu `File/Open library from/Device...` and select the relevant library manually.
+
+## Try your first NMDL program...
 
 The Neuronal Modeling and Description Language (NMDL) is a modeling language
 that is interpreted by the CoNM tool and enables the communication with and interpretation of ANN.
 
+### ...using Modelangelo
+
 *   Start the modeling tool.
-*   Select `File/New/New Project/` and chose template called `NMDL`.
+*   Select `File/New.../Blank Diagram/` and just start modeling by dragging items from the template called `NMDL`.
 *   Create models by following the NMDL standard.
 *   Let the CoNM platform interpret your models. 
 
 For more examples, see the CoNM [tutorials](./tutorials) and its reference dissertation shown below.
+
+### ...using diagrams.net or draw.io
+
+*   Start the modeling tool via the browser.
+*   Select `File/New/New Project/` and chose template called `NMDL`.
+*   Create models by following the NMDL standard.
+*   Let the CoNM platform interpret your models. 
 
 ## Warehouses
 
