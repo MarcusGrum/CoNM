@@ -69,7 +69,24 @@ You can cite CoNM in your paper with the following bibtex reference:
 } 
 ```
 
+Alternatively, you can consider the corresponding book print:
+
+```
+@book{Grum2022construction,
+  title={Construction of a Concept of Neuronal Modeling},
+  author={Grum, M.},
+  isbn={9783658359980},
+  series={Gabler Theses},
+  url={https://books.google.de/books?id=SgGyzgEACAAJ},
+  year={2022},
+  publisher={Springer Fachmedien Wiesbaden},
+  doi={https://doi.org/10.1007/978-3-658-35999-7}
+}
+```
+
 ## Further Publications
+
+Grum M. 2022. Construction of a Concept of Neuronal Modeling. Springer Gabler Wiesbaden. https://doi.org/10.1007/978-3-658-35999-7
 
 Grum M. 2020. Managing Human and Artificial Knowledge Bearers. In: Shishkov B. (eds) Business Modeling and Software Design. BMSD 2020. Lecture Notes in Business Information Processing, vol 391. Springer, Cham. https://doi.org/10.1007/978-3-030-52306-0_12
 
